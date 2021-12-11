@@ -8,7 +8,7 @@ The.R.Estate is a web-app where user will be able to view rental homes and for-s
 
 ## Goal
 
-This was a 3 day solo project. I was asked to build a React application using a API and a pre-planned wireframe for the front-end.
+This was a 2 week solo project. I was asked to build a React application using a API and a pre-planned wireframe for the front-end.
 
 ## Overview and Concept
 
