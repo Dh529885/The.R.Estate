@@ -2,14 +2,6 @@
 
 The.R.Estate is a web-app where user will be able to view rental homes and for-sale properties.
 
-## The.R.Estate’s Link
-
-[The.R.Estate](https://)
-
-## Goal
-
-This was a 2 week solo project. I was asked to build a React application using a API and a pre-planned wireframe for the front-end.
-
 ## Overview and Concept
 
 This is a React app with a API, React, NextJS, JavaScript, CSS. Users can view rental homes and for-sale properties, advanced property filtering, property details page with an image carousel, and much more.
@@ -19,7 +11,7 @@ This is a React app with a API, React, NextJS, JavaScript, CSS. Users can view r
 - HTML5
 - CSS
 - React
-- Next
+- NextJS
 - JavaScript
 - API
 - Axios
@@ -30,32 +22,19 @@ This is a React app with a API, React, NextJS, JavaScript, CSS. Users can view r
 - Framer Motion
 - Github
 - Google Fonts
-- Figma
-
-## Approach Taken:
-
-Day 1 - Firstly I listed all of the API and front-end features that I wished to implement in my app and using Figma I created three rough prototypes and chose my favorite one.
-
-<img width="1536" alt="" src="https://">
-
-I spent the rest of the first day searching for new features that my course didn’t include like Framer Motion, Chakra UI and designing in figma to have a visual idea.
-
-Day 2 and 3 -
-
-Day 4 -
-
-```
-
-```
-
-![](https://)
 
 ## Key learnings:
+- Learned how to use a API in my React projects.
+- Better understanding when it comes to styling.
+- Learned the advantages of using NextJS
 
-- Learned how to use a API in my projects.
+# Screenshot
+![therestate](https://i.imgur.com/xrruJLn.png)
 
-## Challenges:
+# Getting Started
+[Click Here](https://the-r-estate.vercel.app) to see the deployed app!
 
 ## Future improvements:
-
-## Bugs:
+- Users will be able to create a profile.
+- As an authenticated user, I should be able to add list and upload my property.
+- As an user, I should be able to connect the seller.
